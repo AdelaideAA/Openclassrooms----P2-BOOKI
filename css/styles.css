@@ -404,7 +404,7 @@ button {
 #filtres li:active {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     -webkit-transform: scale(1.1);
-    transform: scale (1.1);
+    transform: scale(1.1);
 }
 
 .icone {
@@ -472,6 +472,14 @@ button {
 
     }
 
+    #filtres li:hover,
+    #filtres li:focus,
+    #filtres li:active {
+    box-shadow: none;
+    -webkit-transform: none;
+    transform: none;
+    }
+
     .icone {
         min-width: 54px;
         font-size: 20px;
@@ -534,6 +542,13 @@ button {
         margin-bottom: 14px;
         margin-right: 11px;
 
+    }
+    #filtres li:hover,
+    #filtres li:focus,
+    #filtres li:active {
+    box-shadow: none;
+    -webkit-transform: none;
+    transform: none;
     }
 
     .icone {
