@@ -227,10 +227,6 @@ input[type="search"] {
     font-weight: bold;
     border: 1px solid #f2f2f2;
     padding-left: 3%;
-
-
-
-
 }
 
 input[type="search"]::-webkit-search-decoration,
@@ -252,7 +248,14 @@ input[type="submit"] {
     color: white;
     font-weight: bold;
     cursor: pointer;
+}
 
+input[type="search"]:active{
+    border: 1px solid #f2f2f2;
+}
+input[type="search"]:focus{
+    border: 1px solid #f2f2f2;
+    outline: 1px solid #f2f2f2;
 }
 
 button {
