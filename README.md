@@ -1,6 +1,5 @@
-# Booki
-Projet n°2 de la formation "Développeur web" d'OpenClassrooms 
-Transformez une maquette en site web avec HTML et CSS 
+# OpenClassrooms---P3  
+## Transformez une maquette en site web avec HTML et CSS 
 
 > ### Lien code open source : https://adelaideaa.github.io/OpenClassrooms---P2/
 
