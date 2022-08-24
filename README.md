@@ -1,5 +1,5 @@
 # OpenClassrooms---P3  
-## Transformez une maquette en site web avec HTML et CSS 
+Transformez une maquette en site web avec HTML et CSS 
 
 > ### Lien code open source : https://adelaideaa.github.io/OpenClassrooms---P2/
 
